@@ -1,3 +1,8 @@
+C:\Users\10969836996\Documents\aprendendo\dioJava\springSecurity\src\main\java\org\springSec\auth\domain\UserRole.java
 C:\Users\10969836996\Documents\aprendendo\dioJava\springSecurity\src\main\java\org\springSec\auth\infrastructure\http\Controller.java
+C:\Users\10969836996\Documents\aprendendo\dioJava\springSecurity\src\main\java\org\springSec\auth\infrastructure\persistence\entity\User.java
+C:\Users\10969836996\Documents\aprendendo\dioJava\springSecurity\src\main\java\org\springSec\auth\infrastructure\persistence\repository\UserRepository.java
+C:\Users\10969836996\Documents\aprendendo\dioJava\springSecurity\src\main\java\org\springSec\auth\infrastructure\security\JpaUserDetailsService.java
+C:\Users\10969836996\Documents\aprendendo\dioJava\springSecurity\src\main\java\org\springSec\auth\infrastructure\security\RestUsernamePasswordAuthenticationFilter.java
 C:\Users\10969836996\Documents\aprendendo\dioJava\springSecurity\src\main\java\org\springSec\auth\infrastructure\SecurityConfig.java
 C:\Users\10969836996\Documents\aprendendo\dioJava\springSecurity\src\main\java\org\springSec\SpringSecurity.java
