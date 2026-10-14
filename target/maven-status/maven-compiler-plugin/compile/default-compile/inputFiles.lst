@@ -5,4 +5,12 @@ C:\Users\10969836996\Documents\aprendendo\dioJava\springSecurity\src\main\java\o
 C:\Users\10969836996\Documents\aprendendo\dioJava\springSecurity\src\main\java\org\springSec\auth\infrastructure\security\JpaUserDetailsService.java
 C:\Users\10969836996\Documents\aprendendo\dioJava\springSecurity\src\main\java\org\springSec\auth\infrastructure\security\RestUsernamePasswordAuthenticationFilter.java
 C:\Users\10969836996\Documents\aprendendo\dioJava\springSecurity\src\main\java\org\springSec\auth\infrastructure\SecurityConfig.java
+C:\Users\10969836996\Documents\aprendendo\dioJava\springSecurity\src\main\java\org\springSec\proposal\application\CreateProposalUseCase.java
+C:\Users\10969836996\Documents\aprendendo\dioJava\springSecurity\src\main\java\org\springSec\proposal\application\input\CreateProposalInput.java
+C:\Users\10969836996\Documents\aprendendo\dioJava\springSecurity\src\main\java\org\springSec\proposal\application\output\ProposalOutput.java
+C:\Users\10969836996\Documents\aprendendo\dioJava\springSecurity\src\main\java\org\springSec\proposal\domain\Owner.java
+C:\Users\10969836996\Documents\aprendendo\dioJava\springSecurity\src\main\java\org\springSec\proposal\domain\OwnerId.java
+C:\Users\10969836996\Documents\aprendendo\dioJava\springSecurity\src\main\java\org\springSec\proposal\domain\Proposal.java
+C:\Users\10969836996\Documents\aprendendo\dioJava\springSecurity\src\main\java\org\springSec\proposal\domain\ProposalId.java
+C:\Users\10969836996\Documents\aprendendo\dioJava\springSecurity\src\main\java\org\springSec\proposal\domain\ProposalRepository.java
 C:\Users\10969836996\Documents\aprendendo\dioJava\springSecurity\src\main\java\org\springSec\SpringSecurity.java
