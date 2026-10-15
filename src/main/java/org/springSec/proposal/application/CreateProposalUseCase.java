@@ -4,7 +4,9 @@ import org.springSec.proposal.application.input.CreateProposalInput;
 import org.springSec.proposal.application.output.ProposalOutput;
 import org.springSec.proposal.domain.Owner;
 import org.springSec.proposal.domain.ProposalRepository;
+import org.springframework.stereotype.Service;
 
+@Service
 public class CreateProposalUseCase {
     private final ProposalRepository proposalRepository;
 

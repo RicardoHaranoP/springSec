@@ -55,6 +55,10 @@ public class User implements UserDetails {
         this.password = password;
     }
 
+    public UUID getId() {
+        return id;
+    }
+
     public UserRole getRole() {
         return role;
     }
